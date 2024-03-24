@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import java.util.*;
 
 public class Main {
@@ -29,5 +30,10 @@ public class Main {
         insieme2.add("3");
         insieme2.remove("2");
         System.out.println("insieme 2: " + insieme2);
+=======
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+>>>>>>> origin/main
     }
 }

@@ -3,18 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizi.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizi.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.1.1_Exceptions/Esercizio_3.1.1.1_Exceptions.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.1.1_Exceptions/Esercizio_3.1.1.1_Exceptions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.1.2_Exceptions/Esercizio_3.1.1.2_Exceptions.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.1.2_Exceptions/Esercizio_3.1.1.2_Exceptions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.1.3_Exceptions/Esercizio_3.1.1.3_Exceptions.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.1.3_Exceptions/Esercizio_3.1.1.3_Exceptions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.1.4_Exceptions/Esercizio_3.1.1.4_Exceptions.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.1.4_Exceptions/Esercizio_3.1.1.4_Exceptions.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.2.1_Nullability/Esercizio_3.1.2.1_Nullability.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.2.1_Nullability/Esercizio_3.1.2.1_Nullability.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.3.1_Autoboxing.Unboxing/Esercizio_3.1.3.1_Autoboxing.Unboxing.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.3.1_Autoboxing.Unboxing/Esercizio_3.1.3.1_Autoboxing.Unboxing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.4.1_HashSet/Esercizio_3.1.4.1_HashSet.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.4.1_HashSet/Esercizio_3.1.4.1_HashSet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.4.2_HashSet/Esercizio_3.1.4.2_HashSet.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.4.2_HashSet/Esercizio_3.1.4.2_HashSet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PraticaCollectionSets/PraticaCollectionSets.iml" filepath="$PROJECT_DIR$/PraticaCollectionSets/PraticaCollectionSets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.1_Exceptions/Esercizio_3.1.1_Exceptions.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.1_Exceptions/Esercizio_3.1.1_Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.2_Exceptions/Esercizio_3.1.2_Exceptions.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.2_Exceptions/Esercizio_3.1.2_Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.3_Exceptions/Esercizio_3.1.3_Exceptions.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.3_Exceptions/Esercizio_3.1.3_Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Esercizi/Esercizio_3.1.4_Exceptions/Esercizio_3.1.4_Exceptions.iml" filepath="$PROJECT_DIR$/Esercizi/Esercizio_3.1.4_Exceptions/Esercizio_3.1.4_Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/PraticaExceptionsErrori/PraticaExceptionsErrori.iml" filepath="$PROJECT_DIR$/PraticaExceptionsErrori/PraticaExceptionsErrori.iml" />
       <module fileurl="file://$PROJECT_DIR$/PraticaNull/PraticaNull.iml" filepath="$PROJECT_DIR$/PraticaNull/PraticaNull.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PraticaObjectDataTypes/PraticaObjectDataTypes.iml" filepath="$PROJECT_DIR$/PraticaObjectDataTypes/PraticaObjectDataTypes.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/studio-develhope.iml" filepath="$PROJECT_DIR$/.idea/studio-develhope.iml" />
     </modules>
   </component>
