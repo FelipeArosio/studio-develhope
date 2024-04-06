@@ -4,13 +4,13 @@ public class Module01 {
     }
 
     private static String checkString(String value) {
-        String result;
-        if (value.length() >= 10) {
-            result = "Lunghezza maggiore o uguale di 10";
-        } else {
-            result = "Lunghezza minore di 10";
-        }
+
+        final String result = value.length() >=10
+                ? "Lunghezza maggiore o uguale di 10"
+                : "Lunghezza minore di 10";
+
         return result;
+
     }
 }
 
